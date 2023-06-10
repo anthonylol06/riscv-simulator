@@ -1,7 +1,7 @@
 # RISC-V Simulator
 Credit to [@Chen BAI](https://github.com/baichen318)
 
-## RV32I assembler including 24 instructions in `sim.c` as follows
+## RV32I simulator including 24 instructions in `sim.c` as follows
 * Integer Register-Immediate Instructions:
             slli, xori, srli, srai, ori, andi, lui
 * Integer Register-Register Operations:
