@@ -16,6 +16,6 @@ Credit to [@Chen BAI](https://github.com/baichen318)
 ## How to implement
 ```
 $ make
-$ ./sim [filename].bin ./benchmarks/[filename].asm
+$ ./sim ./benchmarks/[filename].bin
 ```
 
