@@ -1,5 +1,5 @@
 # RISC-V Simulator
-Credit to [@Chen Bai](https://github.com/baichen318)
+Credit to [@Chen BAI](https://github.com/baichen318)
 
 ## RV32I assembler including 24 instructions in `sim.c` as follows
 * Integer Register-Immediate Instructions:
